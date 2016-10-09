@@ -9,7 +9,7 @@ npm install cripweb-webpack --save
 
 ## Configurations
 
-For configuration you can use cripweb configuration module.
+For configuration you can use [cripweb configuration module](https://github.com/crip-node/crip-web#configurations).
 Default configuration definition: 
 ```js
 {
