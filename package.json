@@ -1,5 +1,5 @@
 {
-  "name": "crip-web-webpack",
+  "name": "cripweb-webpack",
   "version": "1.0.0",
   "description": "Crip-web extension to use with webpack [see on GitHub](https://github.com/crip-node/crip-web-webpack)",
   "main": "index.js",
