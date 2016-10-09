@@ -1,6 +1,12 @@
 # cripweb-webpack
 [CripWeb](https://github.com/crip-node/crip-web) extension to use with [webpack](https://webpack.github.io/)
 
+## Installation
+
+```cmd
+npm install cripweb-webpack --save
+```
+
 ## Configurations
 
 For configuration you can use cripweb configuration module.
