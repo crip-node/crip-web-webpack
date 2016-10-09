@@ -1,0 +1,38 @@
+{
+  "name": "crip-web-webpack",
+  "version": "1.0.0",
+  "description": "Crip-web extension to use with webpack [see on GitHub](https://github.com/crip-node/crip-web-webpack)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./tests/**/*-tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/crip-node/crip-web-webpack.git"
+  },
+  "keywords": [
+    "cripweb",
+    "webpack"
+  ],
+  "author": {
+    "name": "Igors Krasjukovs",
+    "email": "tahq69@gmail.com",
+    "url": "https://github.com/tahq69"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/crip-node/crip-web-webpack/issues"
+  },
+  "homepage": "https://github.com/crip-node/crip-web-webpack#readme",
+  "devDependencies": {
+    "chai": "^3.5",
+    "chai-fs": "^0.1",
+    "sinon": "^1.17",
+    "sinon-chai": "^2.8"
+  },
+  "dependencies": {
+    "crip-core": "^1.0",
+    "webpack-stream": "^3.2"
+  }
+}
